@@ -1,2 +1,2 @@
 # crop-recommendation
-Crop Ananlysis and Recommendation
+Crop Analysis and Recommendation
